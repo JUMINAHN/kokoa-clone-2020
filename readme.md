@@ -1,2 +1,2 @@
 #kokoa clone 2020 update
-css got so much better!
+html & css got so much better, fun!
